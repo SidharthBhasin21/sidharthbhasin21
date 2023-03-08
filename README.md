@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthbhasin21&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthbhasin21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidharthbhasin21" alt="sidharthbhasin21" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidharthbhasin21" alt="sidharthbhasin21" /></a> </p> -->
 
 - 🌱 I’m currently learning **React-Native, Firebase, etc**
 
-- 📝 I sometimes write articles on [https://sidharthbhasin.hashnode.dev/rss.xml](https://sidharthbhasin.hashnode.dev/rss.xml)
+- 📝 I sometimes write articles on [HashNode](https://sidharthbhasin.hashnode.dev/)
 
 - 💬 Ask me about **Reactjs, Javascript, Java**
 
 - 📫 How to reach me **sidharthbhasin21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m-ZwIPjc7V_r1hMDpv6E3TBCrLqjwB-C/view?usp=share_link](https://drive.google.com/file/d/1m-ZwIPjc7V_r1hMDpv6E3TBCrLqjwB-C/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m-ZwIPjc7V_r1hMDpv6E3TBCrLqjwB-C/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
