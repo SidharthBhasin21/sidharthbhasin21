@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sidharthbhasin21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m-ZwIPjc7V_r1hMDpv6E3TBCrLqjwB-C/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1m-ZwIPjc7V_r1hMDpv6E3TBCrLqjwB-C/view?usp=share_link](https://drive.google.com/file/d/1LmeecJZsosf0Gq3740ukdG5HiSqUKds8/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
